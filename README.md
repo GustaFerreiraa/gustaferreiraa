@@ -49,5 +49,5 @@ Atualmente estou em busca da minha primeira oportunidade como desenvolvedor.
 
 ## 📫 Contato
 
-- 💼 LinkedIn: www.linkedin.com/in/gustavocarvalhoferreira
+- 💼 LinkedIn: www.linkedin.com/in/gustavodcarvalhoferreira/
 - 📧 Email: gustavodcarvalhoferreiradev@gmail.com
